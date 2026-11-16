@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f87859de-4713-4a77-ba25-e0cba5180505" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dinnerparty/dinnerparty.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dinnerparty/dinnerparty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrixprocessing/matrixprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrixprocessing/matrixprocessing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +30,12 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.chatbot.executor": "Run",
     "Python.dinnerparty.executor": "Run",
+    "Python.matrixprocessing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feature/dinnerparty",
+    "git-widget-placeholder": "feature/matrixprocessing",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
